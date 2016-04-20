@@ -1,4 +1,4 @@
-package cn.jondai.leetcode.code;
+package cn.jondai.leetcode.easy;
 
 import org.junit.Test;
 import static org.junit.Assert.*;
@@ -18,14 +18,14 @@ import static org.junit.Assert.*;
  */
 public class NicGame {
 
-
     public static boolean canWinNim(int n) {
         return (n % 4 != 0);
+
     }
 
     @Test
     public void test() {
-        boolean isWin = NicGame.canWinNim(9);
+        boolean isWin = NicGame.canWinNim(5);
         assertTrue(isWin);
     }
 }
