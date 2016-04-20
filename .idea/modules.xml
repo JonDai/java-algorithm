@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/algorith-leetcode/algorith-leetcode.iml" filepath="$PROJECT_DIR$/algorith-leetcode/algorith-leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorith-niuke/algorith-niuke.iml" filepath="$PROJECT_DIR$/algorith-niuke/algorith-niuke.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-algorithm.iml" filepath="$PROJECT_DIR$/java-algorithm.iml" />
     </modules>
   </component>
