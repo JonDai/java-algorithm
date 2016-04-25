@@ -22,12 +22,12 @@ import org.junit.Test;
  */
 public class BulbSwitcher {
 
-    public int solution(int n) {
-        return 0;
+    public static double solution(int n) {
+       return  Math.sqrt(n);
     }
 
     @Test
     public void test(){
-
+        System.out.println(solution(6));
     }
 }
