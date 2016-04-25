@@ -22,12 +22,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="algorith-leetcode" />
         <module name="algorith-niuke" />
+      </profile>
+      <profile default="false" name="Annotation profile for algorith-leetcode" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="algorith-leetcode" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="algorith-leetcode" target="1.5" />
+      <module name="algorith-leetcode" target="1.8" />
       <module name="algorith-niuke" target="1.5" />
       <module name="java-algorithm" target="1.5" />
     </bytecodeTargetLevel>

@@ -2,6 +2,10 @@ package cn.jondai.leetcode.medium;
 
 import org.junit.Test;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 /**
  * Created by JonDai on 2016/4/25.
  *
@@ -23,13 +27,48 @@ import org.junit.Test;
  */
 
 public class WiggleSortLi {
-    @Test
-    public void wiggleSort(int[] nums) {
 
+    //This is mine solution
+    public void wiggleSort(Integer... nums) {
+        List<Integer> numList = Arrays.asList(nums);
+        //先进行一遍排序
+        numList.sort((n1,n2) -> n1.compareTo(n2));
+        //分组
+        List<Integer> nums1 = numList.subList(0, numList.size() / 2);
+        List<Integer> nums2 = numList.subList(numList.size() /2 , numList.size());
+        List<Integer> newnums = nums1.get(nums1.size()-1) < nums2.get(0) ? mergeOne(numList , nums1, nums2) : mergeTwo(numList , nums1, nums2);
+        newnums.forEach(n -> System.out.println(n));
+    }
+
+    private List<Integer> mergeOne(List<Integer> numList , List<Integer> nums1 ,List<Integer> nums2){
+        List<Integer> newnums = new ArrayList<>();
+        int x=0 ,y=0;
+        for(int j = 0; j< numList.size(); j++){
+            if(j != 0 && j % 2 != 0 ){
+                newnums.add(nums2.get(x));
+                x++;
+            }else{
+                newnums.add(nums1.get(y));
+                y++;
+            }
+        }
+        return newnums;
+    }
+
+    private List<Integer> mergeTwo(List<Integer> numList , List<Integer> nums1 ,List<Integer> nums2){
+        List<Integer> newnums = new ArrayList<>();
+        int x=0 ,y=0;
+        nums2.sort( (n1,n2) -> n2.compareTo(n1));
+        nums2.forEach(n -> System.out.println(n));
+        return mergeOne(numList , nums1 ,nums2);
     }
 
     @Test
-    public void test(){
-
+    public void mine(){
+        wiggleSort(1, 5, 1, 1, 6, 4);
+//        wiggleSort(5,6,4,5);
     }
+
+
+
 }

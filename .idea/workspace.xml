@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="379e825e-c674-4c1b-8697-9311a40f34a3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorith-leetcode/src/main/java/cn/jondai/leetcode/medium/WiggleSortLi.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorith-leetcode/src/main/resources/medium-solution/BulSwiter.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorith-leetcode/src/main/java/cn/jondai/leetcode/medium/BulbSwitcher.java" afterPath="$PROJECT_DIR$/algorith-leetcode/src/main/java/cn/jondai/leetcode/medium/BulbSwitcher.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorith-leetcode/pom.xml" afterPath="$PROJECT_DIR$/algorith-leetcode/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorith-leetcode/src/main/java/cn/jondai/leetcode/medium/WiggleSortLi.java" afterPath="$PROJECT_DIR$/algorith-leetcode/src/main/java/cn/jondai/leetcode/medium/WiggleSortLi.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-algorithm.iml" afterPath="$PROJECT_DIR$/java-algorithm.iml" />
     </list>
     <ignored path="java-algorithm.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,19 +40,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorith-niuke/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -73,24 +64,26 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="NicGame.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorith-leetcode/src/main/resources/easy-solution/NicGame.md">
+          <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.556213">
+              <first_editor vertical-scroll-proportion="0.0">
                 <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
                 <folding />
               </first_editor>
               <second_editor />
             </state>
-          </provider>
-          <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-            <state />
           </provider>
         </entry>
       </file>
@@ -100,8 +93,8 @@
             <state vertical-scroll-proportion="0.0">
               <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="15" selection-end-column="14" />
               <folding>
-                <element signature="e#803#804#0" expanded="true" />
-                <element signature="e#850#851#0" expanded="true" />
+                <element signature="e#733#734#0" expanded="false" />
+                <element signature="e#768#769#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -110,8 +103,40 @@
       <file leaf-file-name="WiggleSortLi.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/algorith-leetcode/src/main/java/cn/jondai/leetcode/medium/WiggleSortLi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.34438777">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state vertical-scroll-proportion="1.2142857">
+              <caret line="66" column="23" selection-start-line="66" selection-start-column="23" selection-end-line="66" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="List.class" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Program/Dev/Java/JDK8/jre/lib/rt.jar!/java/util/List.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReflectiveCallable.class" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Library/maven/repository/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.964286">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Consumer.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Program/Dev/Java/JDK8/src.zip!/java/util/function/Consumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -310,9 +335,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -498,7 +523,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="js-jscs-nodeInterpreter" value="D:\Program Files\nodejs\node.exe" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="SearchEverywhereHistoryKey" value="M&#9;PSI&#9;JAVA://sun.nio.cs.ext.MacArabic" />
   </component>
@@ -507,7 +532,7 @@
       <recent name="E:\JonDai\Java\java-algorithm\algorith-leetcode\src\main\resources\easy-solution" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BulbSwitcher.test">
+  <component name="RunManager" selected="JUnit.WiggleSortLi">
     <configuration default="false" name="NicGame.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -572,6 +597,58 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="cn.jondai.leetcode.medium" />
       <option name="MAIN_CLASS_NAME" value="cn.jondai.leetcode.medium.BulbSwitcher" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="WiggleSortLi.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.jondai.leetcode.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="algorith-leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.jondai.leetcode.medium" />
+      <option name="MAIN_CLASS_NAME" value="cn.jondai.leetcode.medium.WiggleSortLi" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="WiggleSortLi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.jondai.leetcode.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="algorith-leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.jondai.leetcode.medium" />
+      <option name="MAIN_CLASS_NAME" value="cn.jondai.leetcode.medium.WiggleSortLi" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -1018,22 +1095,26 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="3">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JUnit.NicGame.test" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.BulbSwitcher.test" />
       <item index="2" class="java.lang.String" itemvalue="JUnit.BulbSwitcher" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.WiggleSortLi.test" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.WiggleSortLi" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.BulbSwitcher.test" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.BulbSwitcher" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.NicGame.test" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.WiggleSortLi" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.WiggleSortLi.test" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.BulbSwitcher.test" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.BulbSwitcher" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.NicGame.test" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\JonDai\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -1046,7 +1127,9 @@
       <workItem from="1461153644300" duration="1971000" />
       <workItem from="1461200669340" duration="554000" />
       <workItem from="1461314414462" duration="51000" />
-      <workItem from="1461549399186" duration="3277000" />
+      <workItem from="1461549399186" duration="3375000" />
+      <workItem from="1461587412231" duration="170000" />
+      <workItem from="1461592875598" duration="4973000" />
     </task>
     <task id="LOCAL-00001" summary="add NicGame Algorithm">
       <created>1461141449187</created>
@@ -1066,43 +1149,49 @@
       <option name="project" value="LOCAL" />
       <updated>1461146234427</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add bulb-switcher solution &amp;&amp; add WiggleSortLi">
+      <created>1461579826901</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1461579826901</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BulbSwitcher_test - 2016.04.20 at 18h 11m 32s.xml">
-      <configuration name="BulbSwitcher.test" configurationId="JUnit" />
+    <history-entry file="WiggleSortLi - 2016.04.25 at 23h 19m 40s.xml">
+      <configuration name="WiggleSortLi" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BulbSwitcher_test - 2016.04.20 at 18h 11m 48s.xml">
-      <configuration name="BulbSwitcher.test" configurationId="JUnit" />
+    <history-entry file="WiggleSortLi - 2016.04.25 at 23h 19m 49s.xml">
+      <configuration name="WiggleSortLi" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BulbSwitcher_test - 2016.04.20 at 18h 11m 57s.xml">
-      <configuration name="BulbSwitcher.test" configurationId="JUnit" />
+    <history-entry file="WiggleSortLi - 2016.04.25 at 23h 19m 52s.xml">
+      <configuration name="WiggleSortLi" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BulbSwitcher_test - 2016.04.25 at 17h 57m 47s.xml">
-      <configuration name="BulbSwitcher.test" configurationId="JUnit" />
+    <history-entry file="WiggleSortLi - 2016.04.25 at 23h 19m 59s.xml">
+      <configuration name="WiggleSortLi" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BulbSwitcher_test - 2016.04.25 at 17h 59m 14s.xml">
-      <configuration name="BulbSwitcher.test" configurationId="JUnit" />
+    <history-entry file="WiggleSortLi - 2016.04.25 at 23h 20m 24s.xml">
+      <configuration name="WiggleSortLi" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NicGame_test - 2016.04.20 at 16h 22m 40s.xml">
-      <configuration name="NicGame.test" configurationId="JUnit" />
+    <history-entry file="WiggleSortLi - 2016.04.25 at 23h 21m 03s.xml">
+      <configuration name="WiggleSortLi" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NicGame_test - 2016.04.20 at 16h 27m 48s.xml">
-      <configuration name="NicGame.test" configurationId="JUnit" />
+    <history-entry file="WiggleSortLi - 2016.04.25 at 23h 23m 00s.xml">
+      <configuration name="WiggleSortLi" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NicGame_test - 2016.04.20 at 16h 29m 44s.xml">
-      <configuration name="NicGame.test" configurationId="JUnit" />
+    <history-entry file="WiggleSortLi - 2016.04.25 at 23h 27m 34s.xml">
+      <configuration name="WiggleSortLi" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NicGame_test - 2016.04.20 at 16h 30m 17s.xml">
-      <configuration name="NicGame.test" configurationId="JUnit" />
+    <history-entry file="WiggleSortLi - 2016.04.25 at 23h 29m 24s.xml">
+      <configuration name="WiggleSortLi" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NicGame_test - 2016.04.20 at 16h 30m 45s.xml">
-      <configuration name="NicGame.test" configurationId="JUnit" />
+    <history-entry file="WiggleSortLi - 2016.04.25 at 23h 30m 22s.xml">
+      <configuration name="WiggleSortLi" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15028000" />
+    <option name="totallyTimeSpent" value="20269000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1382" height="754" extended-state="6" />
@@ -1114,7 +1203,7 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32744783" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32744783" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1124,7 +1213,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39967898" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1148,17 +1237,180 @@
     <MESSAGE value="add NicGame Algorithm" />
     <MESSAGE value="add NicGame answer" />
     <MESSAGE value="add bulb-switcher title" />
-    <option name="LAST_COMMIT_MESSAGE" value="add bulb-switcher title" />
+    <MESSAGE value="add bulb-switcher solution &amp;&amp; add WiggleSortLi" />
+    <option name="LAST_COMMIT_MESSAGE" value="add bulb-switcher solution &amp;&amp; add WiggleSortLi" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorith-leetcode/src/main/java/cn/jondai/leetcode/medium/WiggleSortLi.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="numList.get(j)" language="JAVA" custom="" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/algorith-leetcode/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorith-leetcode/src/main/java/cn/jondai/leetcode/easy/NicGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorith-leetcode/src/main/resources/easy-solution/NicGame.md">
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.0">
+            <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorith-leetcode/src/main/java/cn/jondai/leetcode/medium/BulbSwitcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="15" selection-end-column="14" />
+          <folding>
+            <element signature="e#733#734#0" expanded="false" />
+            <element signature="e#768#769#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorith-leetcode/src/main/java/cn/jondai/leetcode/medium/WiggleSortLi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program/Dev/Java/JDK8/src.zip!/java/lang/StrictMath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="269" column="47" selection-start-line="269" selection-start-column="47" selection-end-line="269" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#64468#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#12605#12606#0" expanded="false" />
+            <element signature="e#12658#12659#0" expanded="false" />
+            <element signature="e#13419#13420#0" expanded="false" />
+            <element signature="e#13473#13474#0" expanded="false" />
+            <element signature="e#26332#26333#0" expanded="false" />
+            <element signature="e#26368#26369#0" expanded="false" />
+            <element signature="e#27296#27297#0" expanded="false" />
+            <element signature="e#27332#27333#0" expanded="false" />
+            <element signature="e#28559#28560#0" expanded="false" />
+            <element signature="e#28644#28645#0" expanded="false" />
+            <element signature="e#29035#29036#0" expanded="false" />
+            <element signature="e#29077#29078#0" expanded="false" />
+            <element signature="e#29473#29474#0" expanded="false" />
+            <element signature="e#29515#29516#0" expanded="false" />
+            <element signature="e#29950#29951#0" expanded="false" />
+            <element signature="e#29997#29998#0" expanded="false" />
+            <element signature="e#30437#30438#0" expanded="false" />
+            <element signature="e#30484#30485#0" expanded="false" />
+            <element signature="e#30889#30890#0" expanded="false" />
+            <element signature="e#30936#30937#0" expanded="false" />
+            <element signature="e#31346#31347#0" expanded="false" />
+            <element signature="e#31393#31394#0" expanded="false" />
+            <element signature="e#31788#31789#0" expanded="false" />
+            <element signature="e#31833#31834#0" expanded="false" />
+            <element signature="e#32782#32783#0" expanded="false" />
+            <element signature="e#32824#32825#0" expanded="false" />
+            <element signature="e#33771#33772#0" expanded="false" />
+            <element signature="e#33813#33814#0" expanded="false" />
+            <element signature="e#34733#34734#0" expanded="false" />
+            <element signature="e#34776#34777#0" expanded="false" />
+            <element signature="e#35703#35704#0" expanded="false" />
+            <element signature="e#35745#35746#0" expanded="false" />
+            <element signature="e#36352#36353#0" expanded="false" />
+            <element signature="e#36386#36387#0" expanded="false" />
+            <element signature="e#36993#36994#0" expanded="false" />
+            <element signature="e#37027#37028#0" expanded="false" />
+            <element signature="e#37831#37832#0" expanded="false" />
+            <element signature="e#37865#37866#0" expanded="false" />
+            <element signature="e#38674#38675#0" expanded="false" />
+            <element signature="e#38708#38709#0" expanded="false" />
+            <element signature="e#39130#39131#0" expanded="false" />
+            <element signature="e#39167#39168#0" expanded="false" />
+            <element signature="e#39593#39594#0" expanded="false" />
+            <element signature="e#39630#39631#0" expanded="false" />
+            <element signature="e#40330#40331#0" expanded="false" />
+            <element signature="e#40367#40368#0" expanded="false" />
+            <element signature="e#41071#41072#0" expanded="false" />
+            <element signature="e#41108#41109#0" expanded="false" />
+            <element signature="e#41529#41530#0" expanded="false" />
+            <element signature="e#41566#41567#0" expanded="false" />
+            <element signature="e#41990#41991#0" expanded="false" />
+            <element signature="e#42027#42028#0" expanded="false" />
+            <element signature="e#42729#42730#0" expanded="false" />
+            <element signature="e#42766#42767#0" expanded="false" />
+            <element signature="e#43471#43472#0" expanded="false" />
+            <element signature="e#43508#43509#0" expanded="false" />
+            <element signature="e#44523#44524#0" expanded="false" />
+            <element signature="e#44557#44558#0" expanded="false" />
+            <element signature="e#45566#45567#0" expanded="false" />
+            <element signature="e#45600#45601#0" expanded="false" />
+            <element signature="e#46255#46256#0" expanded="false" />
+            <element signature="e#46292#46293#0" expanded="false" />
+            <element signature="e#46947#46948#0" expanded="false" />
+            <element signature="e#46984#46985#0" expanded="false" />
+            <element signature="e#53999#54000#0" expanded="false" />
+            <element signature="e#54041#54042#0" expanded="false" />
+            <element signature="e#54567#54568#0" expanded="false" />
+            <element signature="e#54609#54610#0" expanded="false" />
+            <element signature="e#56269#56270#0" expanded="false" />
+            <element signature="e#56324#56325#0" expanded="false" />
+            <element signature="e#57907#57908#0" expanded="false" />
+            <element signature="e#57962#57963#0" expanded="false" />
+            <element signature="e#58812#58813#0" expanded="false" />
+            <element signature="e#58849#58850#0" expanded="false" />
+            <element signature="e#59695#59696#0" expanded="false" />
+            <element signature="e#59732#59733#0" expanded="false" />
+            <element signature="e#60588#60589#0" expanded="false" />
+            <element signature="e#60627#60628#0" expanded="false" />
+            <element signature="e#61479#61480#0" expanded="false" />
+            <element signature="e#61518#61519#0" expanded="false" />
+            <element signature="e#62945#62946#0" expanded="false" />
+            <element signature="e#62994#62995#0" expanded="false" />
+            <element signature="e#64415#64416#0" expanded="false" />
+            <element signature="e#64464#64465#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1187,7 +1439,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1219,7 +1473,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1251,11 +1507,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorith-leetcode/src/main/resources/easy-solution/NicGame.md">
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor vertical-scroll-proportion="0.0">
@@ -1265,15 +1526,11 @@
           <second_editor />
         </state>
       </provider>
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
     </entry>
     <entry file="jar://D:/Program/Dev/Java/JDK8/src.zip!/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="337" column="24" selection-start-line="337" selection-start-column="18" selection-end-line="337" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1400,7 +1657,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="21" column="35" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="35" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1415,7 +1674,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="337" column="24" selection-start-line="337" selection-start-column="18" selection-end-line="337" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1542,7 +1800,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="21" column="35" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="35" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1557,14 +1817,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.2258065">
           <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorith-niuke/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1689,7 +1941,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1789,38 +2043,36 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorith-leetcode/src/main/resources/easy-solution/NicGame.md">
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.556213">
+          <first_editor vertical-scroll-proportion="0.0">
             <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorith-leetcode/src/main/resources/medium-solution/BulSwiter.md">
       <provider editor-type-id="MultiMarkdownFxPreviewEditor">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorith-leetcode/src/main/resources/medium-solution/BulSwiter.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor vertical-scroll-proportion="0.44378698">
             <caret line="10" column="55" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="55" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
       </provider>
     </entry>
     <entry file="jar://D:/Program/Dev/Java/JDK8/src.zip!/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.038265307">
           <caret line="337" column="24" selection-start-line="337" selection-start-column="18" selection-end-line="337" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1829,17 +2081,59 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="15" selection-end-column="14" />
           <folding>
-            <element signature="e#803#804#0" expanded="true" />
-            <element signature="e#850#851#0" expanded="true" />
+            <element signature="e#733#734#0" expanded="false" />
+            <element signature="e#768#769#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorith-niuke/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program/Dev/Java/JDK8/jre/lib/rt.jar!/java/util/Arrays.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program/Dev/Java/JDK8/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Library/maven/repository/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.964286">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program/Dev/Java/JDK8/jre/lib/rt.jar!/java/util/List.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorith-leetcode/src/main/java/cn/jondai/leetcode/medium/WiggleSortLi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34438777">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="1.2142857">
+          <caret line="66" column="23" selection-start-line="66" selection-start-column="23" selection-end-line="66" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1895,7 +2189,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>algorith-leetcode</last-edited>
+          <last-edited>java-algorithm</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
