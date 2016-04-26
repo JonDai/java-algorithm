@@ -36,10 +36,18 @@ public class WiggleSortLi {
         //分组
         List<Integer> nums1 = numList.subList(0, numList.size() / 2);
         List<Integer> nums2 = numList.subList(numList.size() /2 , numList.size());
-        List<Integer> newnums = nums1.get(nums1.size()-1) < nums2.get(0) ? mergeOne(numList , nums1, nums2) : mergeTwo(numList , nums1, nums2);
-        newnums.forEach(n -> System.out.println(n));
+        //排序后最中间两个数相比较
+        List<Integer> newnums = nums1.get(nums1.size()-1) < nums2.get(0) ? mergeOne(numList , nums1, nums2) : subListSort(numList , nums1, nums2);
+        newnums.forEach(n -> System.out.print(n));
     }
 
+    /**
+     * 只是将两组数据合并
+     * @param numList
+     * @param nums1
+     * @param nums2
+     * @return
+     */
     private List<Integer> mergeOne(List<Integer> numList , List<Integer> nums1 ,List<Integer> nums2){
         List<Integer> newnums = new ArrayList<>();
         int x=0 ,y=0;
@@ -55,18 +63,17 @@ public class WiggleSortLi {
         return newnums;
     }
 
-    private List<Integer> mergeTwo(List<Integer> numList , List<Integer> nums1 ,List<Integer> nums2){
-        List<Integer> newnums = new ArrayList<>();
-        int x=0 ,y=0;
+    private List<Integer> subListSort(List<Integer> numList , List<Integer> nums1 ,List<Integer> nums2){
         nums2.sort( (n1,n2) -> n2.compareTo(n1));
-        nums2.forEach(n -> System.out.println(n));
+        nums1.sort((n1,n2) -> n2.compareTo(n1));
         return mergeOne(numList , nums1 ,nums2);
     }
 
     @Test
     public void mine(){
-        wiggleSort(1, 5, 1, 1, 6, 4);
-//        wiggleSort(5,6,4,5);
+//        wiggleSort(1, 3, 2, 2, 3, 1);
+//        wiggleSort(1, 5, 1, 1, 6, 4);
+        wiggleSort(5,6,6,7);
     }
 
 
